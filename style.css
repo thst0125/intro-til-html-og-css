@@ -37,3 +37,6 @@ p {
   max-width: 450px;
   margin-inline: auto;
 }
+body {
+  height: 1px;
+}
