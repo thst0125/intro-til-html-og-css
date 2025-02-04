@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+body {
+  background-color: black;
+  color: white;
+  min-height: 100svh;
+  border: 1px solid white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+p {
+  background-color: yellow;
+}
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+}
+span {
+  font-weight: 700;
+  color: black;
+}
+
+p {
+  max-width: 450px;
+  margin-inline: auto;
+}
